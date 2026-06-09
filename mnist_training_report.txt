@@ -1,0 +1,11 @@
+Architecture: Conv2d(1->32,k=3) -> ReLU -> Conv2d(32->64,k=3) -> ReLU -> MaxPool2d(2) -> Dropout(0.25) -> Flatten -> Linear(9216->128) -> ReLU -> Dropout(0.5) -> Linear(128->10)
+Device: cpu
+
+Training:
+  Epoch 1/5  loss: 0.2048  test accuracy: 0.9846
+  Epoch 2/5  loss: 0.0807  test accuracy: 0.9890
+  Epoch 3/5  loss: 0.0618  test accuracy: 0.9916
+  Epoch 4/5  loss: 0.0500  test accuracy: 0.9901
+  Epoch 5/5  loss: 0.0465  test accuracy: 0.9908
+
+Final test accuracy: 0.9908
