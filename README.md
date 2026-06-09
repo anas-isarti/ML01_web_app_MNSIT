@@ -1,3 +1,4 @@
+
 # MNIST Digit Classifier
 
 A web app for handwritten digit recognition, built with a CNN trained on MNIST and served via Streamlit.
@@ -31,3 +32,6 @@ Entry point: `mnist_app.py`
 ## Requirements
 
 Python 3.12 — see `requirements.txt` (PyTorch CPU build).
+
+
+url: https://ml01webappmnsit-hxmo9mtkxgbpqd5weuawk6.streamlit.app/
