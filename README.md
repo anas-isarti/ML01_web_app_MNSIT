@@ -34,4 +34,4 @@ Entry point: `mnist_app.py`
 Python 3.12 — see `requirements.txt` (PyTorch CPU build).
 
 
-url: https://ml01webappmnsit-hxmo9mtkxgbpqd5weuawk6.streamlit.app/
+url: https://ml01webappmnsit-m9lkvmpwxh4jfygrbz2dar.streamlit.app/
